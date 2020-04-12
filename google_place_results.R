@@ -1,7 +1,8 @@
 google_place_results <- function(search_list, search_location_ctr,
-                                 radius_in_miles, api_key_input){
+                                 radius_in_miles){
   
   #inputs for search - can change to custom list or list of vectors from csv
+  api_key_input <- "AIzaSyAppXc3urvv_tMrB3YrsJTOZOgnTxAYM7Q"
   search_type <- search_list
   search_loc <- search_location_ctr
   rad <- 1609.34*radius_in_miles
