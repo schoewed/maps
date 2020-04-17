@@ -1,0 +1,13 @@
+name: google_place_addresses
+title: google_place_addresses
+username:
+account: schoewed
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2122087
+bundleId: 3017309
+url: https://schoewed.shinyapps.io/google_place_addresses/
+when: 1586961376.67373
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: google_place_results.R|google_places_app.R
